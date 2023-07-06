@@ -2,3 +2,4 @@ maseter 1
 develop 2
 feature-log 3
 release-1.0 4
+hotfix 5
